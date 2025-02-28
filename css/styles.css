@@ -14,7 +14,7 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #f9c49a;
+    background-color: #E574E9;
 }
 
 .resume-main {
@@ -48,17 +48,4 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
-}
-.language-level .language-progess {
-background-color: #d05a0b !important; /*change do your desired color*/
-}
-
-.language-level {
-	background-color: #4c61af !important; /*change to your desired color*/
-}
-.language-level {
-	border: 4px solid #ff00dd; /* Change to your desired color */
-	border-color: #ff00dd !important;
-	border-radius: 0px; /* Optional: Add rounded corners */
-
 }
