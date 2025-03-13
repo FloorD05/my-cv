@@ -54,9 +54,13 @@ body {
 }
 
 .language-level .language-progress{
-	background-color: #578935 !important; /* Change to your desired color */
+	background-color: #587f3d !important; /* Change to your desired color */
 }
 
 .language-level {
 	border: #000000 !important;
+}
+
+.language-level {
+	background-color: #659465 !important; /* Change to your desired color */
 }
