@@ -52,3 +52,8 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+.language-level .language-progress{
+	background-color: #578935 !important; /* Change to your desired color */
+}
+
