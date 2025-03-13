@@ -7,8 +7,8 @@
 
 body {
 	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #202030;
-	background-color: #f8f8fc;
+	color: #000000;
+	background-color: #c3d6c8;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
@@ -16,9 +16,12 @@ body {
 .resume-header {
     background-color: #437544;
 }
-
+.custom-heading {
+    font-family:  'sans-serif'; /* Change the font */
+    color: #c6e3c7; /* Change the color */
+}
 .resume-main {
-	background-color: #fffefc;
+	background-color: #d3ded1;
 }
 
 .resume-aside {
